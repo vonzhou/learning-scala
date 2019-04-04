@@ -3,12 +3,6 @@
 ---
 
 
-## :point_right: 目录
-
-* [Books](#books-books)
-* [Scala Lang]()
-* [Framework](#purple_heart-framework)
-
 ## :books: Books
 
 * [《Programming in Scala, 3rd》](https://github.com/vonzhou/ProgrammingInScala) :+1::+1:
@@ -27,6 +21,10 @@
 ### Kafka
 
 ### Spark
+
+## Practice 实战
+
+[S-99: Ninety-Nine Scala Problems](https://github.com/vonzhou/99-scala-problems)
 
 ## Useful Links
 
