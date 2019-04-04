@@ -30,3 +30,9 @@
 
 [Stackoverflow scala tag info](https://stackoverflow.com/tags/scala/info)
 
+[Demystifying the Monad in Scala](https://medium.freecodecamp.org/demystifying-the-monad-in-scala-cc716bb6f534)
+
+[Why Scala?](https://blog.softwaremill.com/why-scala-a6ac8c98c541)
+
+[王宏江 blog](http://hongjiang.info/scala/)
+
